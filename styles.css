@@ -1,0 +1,53 @@
+body {
+    text-align: center;
+    
+    }
+    
+    #likeBtn,
+    #dislikeBtn {
+    font-size: 100px;
+    padding: 6px;
+    margin: 10px;
+}
+    
+    h1,
+    h2 {
+font-style: oblique;
+color: black;}
+    
+    #Submit,
+    #clear{
+    margin: 10px;
+
+    font-size: 20px;
+    padding: 14px ;
+
+background-color:#898b93; ;
+    color:#FFF;
+   
+    
+}
+
+
+
+.comments {
+margin-top: 10%;
+
+}
+
+.comments h3 {
+margin-bottom: 2%;
+
+}
+
+#commentBox {
+width: 35%;
+height: 100px;
+margin: 0 32%;
+font-size: 15px;
+border-radius: 20px;
+
+padding: 15px;
+display: block;
+border: 1px solid #333;
+}
